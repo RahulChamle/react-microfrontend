@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"\\\"C:\\\\\\\\Program Files\\\\\\\\nodejs\\\\\\\\node.exe\\\" D:\\\\Rahul\\\\Projects\\\\microfrontend-react\\\\auth-mfe\\\\node_modules\\\\typescript\\\\bin\\\\tsc --project D:\\\\Rahul\\\\Projects\\\\microfrontend-react\\\\auth-mfe\\\\node_modules\\\\.federation\\\\tsconfig.01ff0b1e9fb1a8353782b40d8e263b90.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "\"C:\\\\Program Files\\\\nodejs\\\\node.exe\" D:\\Rahul\\Projects\\microfrontend-react\\auth-mfe\\node_modules\\typescript\\bin\\tsc --project D:\\Rahul\\Projects\\microfrontend-react\\auth-mfe\\node_modules\\.federation\\tsconfig.01ff0b1e9fb1a8353782b40d8e263b90.json"
+    },
+    "timestamp": 1790859386290
+  }
+}
