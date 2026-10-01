@@ -1,0 +1,1 @@
+import{n as e,t}from"./loadShare-eager-CAMRwB0l.js";function n(){return e(`div`,{children:[t(`h2`,{children:`Auth Microfrontend`}),t(`button`,{children:`Login`}),t(`button`,{children:`Registration`})]})}export{n as t};
